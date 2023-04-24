@@ -1,2 +1,2 @@
 # JellecaJoyMunar.github.io
-added text docs
+added text
