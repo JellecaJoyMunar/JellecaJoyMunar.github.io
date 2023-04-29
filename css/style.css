@@ -141,7 +141,7 @@ h1, h2{
 }
 #banner{
     height:80vh;
-    background-image: url(/JellecaJoyMunar.github.io/img/img2.jpeg);
+    background-image: url(/img/img2.jpeg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -267,6 +267,9 @@ h1, h2{
     #banner{
         padding-top:40%;
         
+    }
+    #gallery{
+        padding:50px;
     }
     
 }
